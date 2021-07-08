@@ -21,3 +21,4 @@ Aula21 - DO WHILE
 Aula22 - Foreach
 Aula23 - Métodos para Array: Método Random; Método BinSearch; Método CopyArray; SetValue
 Aula24 - Métodos de Objeto (Bloco de Instruções)
+Aula25 - Métodos com referência

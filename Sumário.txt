@@ -1,0 +1,23 @@
+Aula1 - Prompt de Comando
+Aula2 - Compilação do Programa
+Aula3 - Variáveis
+Aula4 - Escopo de Variáveis
+Aula5 - Operadores
+Aula6 - Saída do Console. Config de String
+Aula7 - Constantes
+Aula8 - Leitura de Valores
+Aula9 - X2 e /2
+Aula10 - Enumeradores
+Aula11 - Conversão de Tipo
+Aula12 - IF
+Aula13 - ELSE
+Aula15 - Switch and case
+Aula16 - GoTo
+Aula17 - Array - Organização de Variáveis
+Aula18 - Array Bidimensional - Matrizes
+Aula19 - Loop FOR
+Aula20 - Loop WHILE
+Aula21 - DO WHILE
+Aula22 - Foreach
+Aula23 - Métodos para Array: Método Random; Método BinSearch; Método CopyArray; SetValue
+Aula24 - Métodos de Objeto (Bloco de Instruções)

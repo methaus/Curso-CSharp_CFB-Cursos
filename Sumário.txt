@@ -23,4 +23,5 @@ Aula23 - Métodos para Array: Método Random; Método BinSearch; Método CopyArr
 Aula24 - Métodos de Objeto (Bloco de Instruções)
 Aula25 - Métodos com referência (ref)
 Aula26 - Argumento out
-Aual27 - Argumento params
+Aula27 - Argumento params
+Aula28 - Classes

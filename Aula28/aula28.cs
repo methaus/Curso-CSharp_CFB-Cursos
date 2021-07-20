@@ -9,11 +9,13 @@ namespace Aula28 {
         static void Main() {
             Jogador j1 = new Jogador();
             Jogador j2 = new Jogador();
+            Jogador j3 = new Jogador();
             j1.energia = 50;
             j2.energia = 0;
             j2.vivo = false;
             Console.WriteLine("Jogador 1 tem energia = {0} e vivo = {1}", j1.energia, j1.vivo);
             Console.WriteLine("Jogador 2 tem energia = {0} e vivo = {1}", j2.energia, j2.vivo);
+            Console.WriteLine("Jogador 2 tem energia = {0} e vivo = {1}", j3.energia, j3.vivo);
         }
     }
 }

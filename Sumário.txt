@@ -29,4 +29,6 @@ Aula29 - Classes - contrutores e destrutores
 Aula30 - Sobrecarga de construtores
 Aula31 - Static
 Aula32 - this.
-Aula33 = Public x Private
+Aula33 - Public x Private
+Aula34 - Herança de Classes
+Aula35 - Cadeia de Herança, ":base()" e Operador ternário

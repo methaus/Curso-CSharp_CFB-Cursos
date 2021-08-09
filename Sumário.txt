@@ -32,3 +32,4 @@ Aula32 - this.
 Aula33 - Public x Private
 Aula34 - Herança de Classes
 Aula35 - Cadeia de Herança, ":base()" e Operador ternário
+Aula36 - Membros Protected

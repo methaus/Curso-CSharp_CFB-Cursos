@@ -34,4 +34,7 @@ Aula34 - Herança de Classes
 Aula35 - Cadeia de Herança, ":base()" e Operador ternário
 Aula36 - Membros Protected
 Aula37 - Ordem de Classes
-Aula38 - Métodos Virtuais
+Aula38 - Métodos Virtuais (existem e podem ser sobrescritos)
+Aula39 - Métodos Abstratos (não existem e devem ser sobrescritos)
+Aula40 - Classes Seladas - sealed
+Aula41 - Acessors Get and Set

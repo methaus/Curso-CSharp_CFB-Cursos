@@ -39,3 +39,7 @@ Aula39 - Métodos Abstratos (não existem e devem ser sobrescritos)
 Aula40 - Classes Seladas - sealed
 Aula41 - Acessors Get and Set
 Aula42 - Indexadores de Classe
+Aula43 - Interface
+Aula44 - Struct
+Aula45 - Struct Array
+Aula46 - Classe: Retornar Objetos

@@ -47,4 +47,7 @@ Aula47 - Sobrecarga de Métodos
 Aula48 - Recursividade
 Aula49 - Métodos e Variáveis Static
 Aula50 - Delegates
-Aula51 - Argumentos de Entrada do programa
+Aula51 - Argumentos de Entrada do programa (cmd)
+Aula52 - Exceções - Try Catch
+Aula53 - Finally, throw
+Aula54 - Namespace

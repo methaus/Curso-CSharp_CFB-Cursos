@@ -51,3 +51,5 @@ Aula51 - Argumentos de Entrada do programa (cmd)
 Aula52 - Exceções - Try Catch
 Aula53 - Finally, throw
 Aula54 - Namespace
+Aula55 - Coleção Dictionary
+Aula56 - Lista Duplamente Encadeada / LinkedList

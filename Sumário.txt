@@ -54,3 +54,4 @@ Aula54 - Namespace
 Aula55 - Coleção Dictionary
 Aula56 - Lista Duplamente Encadeada / LinkedList
 Aula57/58 - List
+Aula59 - Queue
